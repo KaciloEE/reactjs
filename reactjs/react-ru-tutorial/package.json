@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "Redux RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kacilo",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
